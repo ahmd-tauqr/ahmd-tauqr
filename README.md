@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmd-tauqr
     
     Started as front end developer in 2016 with nothing but html and css,
-    hoping to be the best with good old custom media queries until I discovered bootstrap.
-    Later PHP changed my world when I could build backend web services, dabbed in wordpress theme and plugin development while I ws at it.
+    hoping to be the best with good old custom css until I discovered bootstrap.
+    Later PHP changed my world when I could build backend web services, dabbled in wordpress theme and plugin development while I was at it.
     Got into JavaScript and never looked back.
     
 - 👀 I’m interested in ...
