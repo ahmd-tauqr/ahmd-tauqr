@@ -11,16 +11,15 @@
 
 - 🌱 I’m currently learning ...
 
-  System design
-  UX Design
-  Architecture designs
-  Test Driven Development
-  Containers Docker and Kubernetes
-  AWS Cloud
-  Rest API Design
-  GraphQL
+  System design,
+  UX Design,
+  Architecture designs,
+  Test Driven Development,
+  Containers Docker and Kubernetes,
+  AWS Cloud,
+  Rest API Design,
+  GraphQL,
   Go
-  Data Science
   
 - 💞️ I’m looking to collaborate on ...
 
